@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<dataset>
+
+	<vendedor id="1" nome="John Doe" />
+	<vendedor id="2" nome="Felippe" />
+	<vendedor id="3" nome="Rodrigo" />
+
+<!-- 	<venda/> -->
+</dataset>
